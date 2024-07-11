@@ -1,0 +1,5 @@
+There are four ways to test the web app in alternative safari in Ubuntu , 
+       1)Gnome Web(sudo apt install epiphany-browser)
+       2)playwright is used by nodejs project. https://joyofcode.xyz/test-your-site-in-every-browser
+       3)macos-virtualbox   https://github.com/myspaghetti/macos-virtualbox
+       4)Remote Debugging Web Apps on iOS from Linux   https://www.closingtags.com/remote-debugging-web-apps-on-ios-from-linux/
